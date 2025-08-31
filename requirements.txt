@@ -127,8 +127,7 @@ python-dotenv==1.1.1
 python-jose==3.5.0
 python-json-logger==3.3.0
 pytz==2025.2
-pywin32==310
-pywinpty==2.0.15
+
 PyYAML==6.0.2
 pyzmq==26.4.0
 razorpay==1.4.2
@@ -165,7 +164,6 @@ tinycss2==1.4.0
 toml==0.10.2
 torch
 
-#sha256=2be20b2c05a0cce10430cc25f32b689259640d273232b2de357c35729132256d
 torchaudio
 
 torchvision 
