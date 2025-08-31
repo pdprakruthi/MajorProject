@@ -163,7 +163,8 @@ terminado==0.18.1
 threadpoolctl==3.6.0
 tinycss2==1.4.0
 toml==0.10.2
-torch @ file:///C:/Users/Prakruthi%20P%20D/OneDrive/Desktop/Downloadstorch
+torch
+
 #sha256=2be20b2c05a0cce10430cc25f32b689259640d273232b2de357c35729132256d
 torchaudio @ file:///C:/Users/Prakruthi%20P%20D/OneDrive/Desktop/Downloads/torchaudio-2.8.0%2Bcpu-cp312-cp312-win_amd64.whl#sha256=9b302192b570657c1cc787a4d487ae4bbb7f2aab1c01b1fcc46757e7f86f391e
 torchvision @ file:///C:/Users/Prakruthi%20P%20D/OneDrive/Desktop/Downloads/torchvision-0.23.0%2Bcpu-cp312-cp312-win_amd64.whl#sha256=a651ccc540cf4c87eb988730c59c2220c52b57adc276f044e7efb9830fa65a1d
